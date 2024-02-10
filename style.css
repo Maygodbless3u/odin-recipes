@@ -1,0 +1,17 @@
+
+    h1 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        background-color: violet;
+    }
+
+    .p {
+        background-color: brown;
+    }
+    #div {
+        background-color: skyblue;
+    }
+
+    .last {
+        background-color: red;
+    }
