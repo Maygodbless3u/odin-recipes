@@ -1,0 +1,26 @@
+body {
+    max-width: 600px;
+}
+
+.div1 {
+    border: 2px solid blue;
+    background-color: bisque;
+    text-align: center;
+    margin: 12px;
+    padding: 50px;
+}
+
+.div2 {
+    background-color: skyblue;
+    border: 2px solid purple;
+    margin-bottom: 48px;
+}
+
+.div3 {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 40px;
+    width: 200px;
+    margin-left: auto;
+    border: 2px solid brown;
+}
